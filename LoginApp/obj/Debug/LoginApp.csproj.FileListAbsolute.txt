@@ -1,0 +1,4 @@
+C:\Users\EAT\Source\Repos\Emmanuel-tetteh\dcit318-assignment4-10968137\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\EAT\Source\Repos\Emmanuel-tetteh\dcit318-assignment4-10968137\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\EAT\Source\Repos\Emmanuel-tetteh\dcit318-assignment4-10968137\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\EAT\Source\Repos\Emmanuel-tetteh\dcit318-assignment4-10968137\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
